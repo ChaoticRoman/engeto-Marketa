@@ -6,7 +6,7 @@ email: marketa_benkova@kb.cz
 discord: Markéta#4898
 
 """
-cara = "-" * 30
+cara = "-" * 50
 
 #Nejdříve ověření, že daný uživatel existuje
 
